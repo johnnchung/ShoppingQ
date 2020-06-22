@@ -1,0 +1,109 @@
+input[type=text], select{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  font-size:15px;
+}
+
+input[type=number], select{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  font-size:15px;
+}
+input[type=int], select{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  font-size:15px;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+
+input[type=number]:focus {
+  border: 3px solid #555;
+}
+
+button[type=submit]:hover{
+  background-color: #45a049;
+}
+
+
+input[type=password], select{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  font-size:15px;
+}
+button[type=submit]{
+  width: 40%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.structure{
+  text-align: center;
+}
+
+.box-1 h1{
+  font-family: "Courier New";
+  font-size: 45px;
+  font-weight: 100;
+  letter-spacing: 0.05em;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.backgroundCheck{
+  background-color: #669999;
+}
+
+input[type=submit]:hover{
+  background-color: #45a049;
+}
+
+input[type=submit]{
+  width: 40%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
