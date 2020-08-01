@@ -1,6 +1,6 @@
 # ShoppingQ
 ShoppingQ is an online tool designed to bring back the fluidity of your nomal life by minimizing the impact of COVID-19 on your shopping experience. It serves as a platform where business owners can instantaneously publish information regarding the amount of people visiting their stores, for the safety, wellbeing and enjoyment of everyone.
-This github is a early prototype of the final product which we imagined. In order to run the prototype and simulate the experience, several steps needs to be taken to simulate a server environment on a personcal computer:
+This github is a early prototype of the final product which we imagined. In order to run the prototype and simulate the experience, several steps needs to be taken to simulate a server environment on a personal computer:
 
 1. Install Xampp, which is one of the most popular methods of hosting local servers on one's computer to run PHP code and utilize databases.
 
