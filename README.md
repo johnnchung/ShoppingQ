@@ -11,3 +11,5 @@ This github is a early prototype of the final product which we imagined. In orde
 4. On the web application click on Administrator to sign up, add address values for the company, and provide line_lengths.
 
 5. On the client side, by providing the address of the store the application returns the average wait time.
+
+Contributor list: Tim, Cheran, John, Leo, Yang
